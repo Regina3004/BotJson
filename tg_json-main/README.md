@@ -19,7 +19,7 @@
 
 После отправки JSON c ошибкой:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
+![image](https://raw.githubusercontent.com/Regina3004/BotJson/refs/heads/main/tg_json-main/static/synyaxis.png)
 
 Пример работы бьютифаера:
 
