@@ -23,7 +23,7 @@
 
 Пример работы бьютифаера:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
+![image](https://raw.githubusercontent.com/Regina3004/BotJson/refs/heads/main/tg_json-main/static/beautifaer.png)
 
 
 ## 💻 Технологии
@@ -61,4 +61,4 @@ python3 json_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Регина Образ ([@reginaobana](https://t.me/reginaobana))
