@@ -15,7 +15,7 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/menu.png)
+![image](\https://raw.githubusercontent.com/Regina3004/BotJson/refs/heads/main/tg_json-main/static/menu.png)
 
 После отправки JSON c ошибкой:
 
